@@ -3,6 +3,7 @@
 import { useRef } from "react"
 import html2canvas from "html2canvas"
 import { jsPDF } from "jspdf"
+import Image from "next/image"
 
 export default function Certificate({ attendee }) {
   const certificateRef = useRef(null)
@@ -23,9 +24,11 @@ export default function Certificate({ attendee }) {
         className="w-full max-w-[800px] p-4 sm:p-6 border-2 border-gray-200 rounded-xl bg-white shadow-lg text-center"
       >
         <div className="flex flex-col items-center space-y-4">
-          <img
-            src="/ CNCG Dehradun Logo.png"
+          <Image
+            src="/CNCG Dehradun Logo.png" // Removed space after /
             alt="CNCG Dehradun Logo"
+            width={100}
+            height={100}
             className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24"
           />
           <h2 className="text-xl sm:text-3xl md:text-4xl font-bold text-gray-800">
