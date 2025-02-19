@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "name": "Aastha Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 2,
+    "name": "abhinav sharma",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 3,
+    "name": "Aditya Kumar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 4,
+    "name": "Aditya Raj",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 5,
+    "name": "Akanksha Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 6,
+    "name": "AkashDeep Kandari",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 7,
+    "name": "Akhil Akhil",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 8,
+    "name": "Amit Kumar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 9,
+    "name": "Ananya Aggarwal",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 10,
+    "name": "Ananya Mishra",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 11,
+    "name": "Aniket Sapra",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 12,
+    "name": "Ankit Ankit",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 13,
+    "name": "Ankush Painuly",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 14,
+    "name": "Anshul Anshul",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 15,
+    "name": "Arojit Pant",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 16,
+    "name": "Aryan Kharb",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 17,
+    "name": "Aryan Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 18,
+    "name": "Ashish Dwivedi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 19,
+    "name": "Ashutosh Kandpal",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 20,
+    "name": "Ashwani Brijwasi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 21,
+    "name": "Avdesh .",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 22,
+    "name": "Basant Bhatt",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 23,
+    "name": "BHARAT SHARMA",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 24,
+    "name": "Bipin Tripathi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 25,
+    "name": "CHINMAY BHATT",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 26,
+    "name": "Diksha Joshi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 27,
+    "name": "Divyan Thakur",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 28,
+    "name": "Divyanshu Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 29,
+    "name": "Gaurav Kumar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 30,
+    "name": "Harsh Aaryan",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 31,
+    "name": "Himadri Malhotra",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 32,
+    "name": "Himanshu Rawat",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 33,
+    "name": "IECDBUU IECDBUU",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 34,
+    "name": "Isha Saini",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 35,
+    "name": "Ishika Saxena",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 36,
+    "name": "jatin gaming",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 37,
+    "name": "Kalpana Chhetri",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 38,
+    "name": "Kanishka Rawat",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 39,
+    "name": "Kartik Raina",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 40,
+    "name": "Kaushal Pandey",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 41,
+    "name": "kavya rajput",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 42,
+    "name": "Lucky Panwar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 43,
+    "name": "Mahil Ahmed",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 44,
+    "name": "Manish Bashkheti",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 45,
+    "name": "Manish Chauhan",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 46,
+    "name": "Manish Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 47,
+    "name": "mansipanwar136@gmail.com mansipanwar136@gmail.com",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 48,
+    "name": "Mohammad Usaid Ali khan",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 49,
+    "name": "Mohammed Bankapur",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 50,
+    "name": "Mohit Bisht",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 51,
+    "name": "Monika Monika",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 52,
+    "name": "Muskan Sahani",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 53,
+    "name": "Narendra Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 54,
+    "name": "Nishant Kumar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 55,
+    "name": "Nitish Joshi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 56,
+    "name": "Pankaj Hasija",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 57,
+    "name": "paras gupta",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 58,
+    "name": "Parimahajan Negi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 59,
+    "name": "Pawan Singh Chauhan",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 60,
+    "name": "Piyush Joshi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 61,
+    "name": "pooja Mehta",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 62,
+    "name": "Pratibha Negi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 63,
+    "name": "Pratik Mahalle",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 64,
+    "name": "Priyanshu -",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 65,
+    "name": "RAHUL PRASAD",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 66,
+    "name": "Rajani Ekunde",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 67,
+    "name": "Riddhima Kar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 68,
+    "name": "Rishi yadav",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 69,
+    "name": "Ritesh Paul",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 70,
+    "name": "Rohit Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 71,
+    "name": "Rucha Shambharkar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 72,
+    "name": "sanjay mudkanna",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 73,
+    "name": "Sardar Sathpal Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 74,
+    "name": "satyam yadav",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 75,
+    "name": "Saurabh Maurya",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 76,
+    "name": "Shivanand Rai",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 77,
+    "name": "Shivansh Rajput",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 78,
+    "name": "Simran .",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 79,
+    "name": "Simran Malhotra",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 80,
+    "name": "Simran Perween",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 81,
+    "name": "Sonu Kumar",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 82,
+    "name": "Sujal Yadav",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 83,
+    "name": "Suraj Chandra",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 84,
+    "name": "Suyash Dhiman",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 85,
+    "name": "Swarnima Swarnima",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 86,
+    "name": "Tanishq Singh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 87,
+    "name": "TriCORE TriCORE",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 88,
+    "name": "tushar arya",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 89,
+    "name": "Tushar Rajpoot",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 90,
+    "name": "Tushar Sawant",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 91,
+    "name": "Utkarsh Verma",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 92,
+    "name": "Vaibhav Joshi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 93,
+    "name": "Vaishnavi kumari",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 94,
+    "name": "Vansh Vansh",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 95,
+    "name": "Vedansh karki",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 96,
+    "name": "Vicky Vicky",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 97,
+    "name": "Vikash Varanwal",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 98,
+    "name": "Vipul Sharma",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 99,
+    "name": "Vishal Naugain",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 100,
+    "name": "Vivek Kandpal",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 101,
+    "name": "Yash Kholiya",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  },
+  {
+    "id": 102,
+    "name": "Yogesh Joshi",
+    "event": "CNCG Dehradun Tech Talks 2025",
+    "date": "2025-02-16"
+  }
+]
