@@ -5,16 +5,21 @@ import html2canvas from "html2canvas"
 import { jsPDF } from "jspdf"
 import Image from "next/image"
 
-export default function Certificate({ attendee }) {
-  const certificateRef = useRef(null)
+export default function Certificate({ attendee }: { attendee: any }) {
+  const certificateRef = useRef<HTMLDivElement>(null)
 
   const downloadCertificate = async () => {
-    const certificateElement = certificateRef.current
-    const canvas = await html2canvas(certificateElement, { scale: 2 })
-    const imgData = canvas.toDataURL("image/png")
-    const pdf = new jsPDF("l", "mm", [297, 210])
-    pdf.addImage(imgData, "PNG", 0, 0, 297, 210)
-    pdf.save(`${attendee.name}_certificate.pdf`)
+    if (!certificateRef.current) return
+    
+    try {
+      const canvas = await html2canvas(certificateRef.current, { scale: 2 })
+      const imgData = canvas.toDataURL("image/png")
+      const pdf = new jsPDF("l", "mm", [297, 210])
+      pdf.addImage(imgData, "PNG", 0, 0, 297, 210)
+      pdf.save(`${attendee.name}_certificate.pdf`)
+    } catch (error) {
+      console.error("Download failed:", error)
+    }
   }
 
   return (
@@ -25,10 +30,11 @@ export default function Certificate({ attendee }) {
       >
         <div className="flex flex-col items-center space-y-4">
           <Image
-            src="/CNCG Dehradun Logo.png" // Removed space after /
+            src="/CNCG Dehradun Logo.png"
             alt="CNCG Dehradun Logo"
             width={100}
             height={100}
+            priority
             className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24"
           />
           <h2 className="text-xl sm:text-3xl md:text-4xl font-bold text-gray-800">

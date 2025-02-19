@@ -6,11 +6,18 @@ import Certificate from "@/components/certificate"
 import SocialShare from "@/components/social-share"
 import { fetchAttendees } from "@/lib/utils"
 
+interface Attendee {
+  id: string
+  name: string
+  event: string
+  date: string
+}
+
 export default function Home() {
-  const [attendees, setAttendees] = useState([])
-  const [selectedAttendee, setSelectedAttendee] = useState(null)
+  const [attendees, setAttendees] = useState<Attendee[]>([])
+  const [selectedAttendee, setSelectedAttendee] = useState<Attendee | null>(null)
   const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
+  const [error, setError] = useState<string | null>(null)
   const [selectedEvent, setSelectedEvent] = useState("")
 
   useEffect(() => {
@@ -19,7 +26,7 @@ export default function Home() {
         const data = await fetchAttendees()
         setAttendees(data)
         
-        const uniqueEvents = [...new Set(data.map(attendee => attendee.event))]
+        const uniqueEvents = Array.from(new Set(data.map(attendee => attendee.event)))
         if (uniqueEvents.length === 0) {
           setError("No events found")
           return
@@ -27,7 +34,11 @@ export default function Home() {
         
         setSelectedEvent(uniqueEvents[0])
       } catch (error) {
-        setError(error.message || "Failed to load attendees")
+        let errorMessage = "Failed to load attendees"
+        if (error instanceof Error) {
+          errorMessage = error.message || errorMessage
+        }
+        setError(errorMessage)
       } finally {
         setLoading(false)
       }
@@ -78,7 +89,7 @@ export default function Home() {
           onChange={(e) => setSelectedEvent(e.target.value)}
           className="w-full p-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500"
         >
-          {[...new Set(attendees.map(attendee => attendee.event))].map(event => (
+          {Array.from(new Set(attendees.map(attendee => attendee.event))).map(event => (
             <option key={event} value={event}>
               {event}
             </option>
