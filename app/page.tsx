@@ -23,10 +23,10 @@ export default function Home() {
   useEffect(() => {
     const loadAttendees = async () => {
       try {
-        const data = await fetchAttendees()
+        const data = (await fetchAttendees()) as Attendee[]
         setAttendees(data)
         
-        const uniqueEvents = Array.from(new Set(data.map(attendee => attendee.event)))
+        const uniqueEvents = Array.from(new Set(data.map((attendee: Attendee) => attendee.event)))
         if (uniqueEvents.length === 0) {
           setError("No events found")
           return
@@ -89,7 +89,7 @@ export default function Home() {
           onChange={(e) => setSelectedEvent(e.target.value)}
           className="w-full p-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500"
         >
-          {Array.from(new Set(attendees.map(attendee => attendee.event))).map(event => (
+          {Array.from(new Set(attendees.map((attendee: Attendee) => attendee.event))).map(event => (
             <option key={event} value={event}>
               {event}
             </option>

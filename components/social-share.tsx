@@ -1,19 +1,34 @@
 "use client"
 
-export default function SocialShare({ attendee }) {
+interface Attendee {
+  id: string
+  name: string
+  event: string
+  date: string
+}
+
+interface SocialShareProps {
+  attendee: Attendee
+}
+
+export default function SocialShare({ attendee }: SocialShareProps) {
   const shareText = `I successfully attended ${attendee.event} on ${attendee.date}! 🎉`
   const shareUrl = "https://cncg-dehradun.vercel.app"
 
   const socialLinks = [
     {
       name: "LinkedIn",
-      url: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}&summary=${encodeURIComponent(shareText)}`,
+      url: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+        shareUrl
+      )}&summary=${encodeURIComponent(shareText)}`,
       icon: "👔",
       color: "bg-blue-600"
     },
     {
       name: "Twitter",
-      url: `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`,
+      url: `https://twitter.com/intent/tweet?text=${encodeURIComponent(
+        shareText
+      )}&url=${encodeURIComponent(shareUrl)}`,
       icon: "🐦",
       color: "bg-blue-400"
     }
