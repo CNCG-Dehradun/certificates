@@ -1,8 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CNCG-Dehradun Certificates
+
+It is a repository of CNCG-Dehradun designed to generate and manage certificates efficiently.
 
 ## Getting Started
 
-First, run the development server:
+To start the development server, run:
 
 ```bash
 npm run dev
@@ -14,23 +16,45 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, open [http://localhost:3000](http://localhost:3000) in your browser to see the application in action
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+✅ Generate digital certificates dynamically  
+✅ Download certificates in PDF format  
+✅ User-friendly interface with auto-updates  
+✅ Optimized performance with Next.js and Vercel fonts  
+
+## Technologies Used
+
+- **Next.js** – React framework for fast performance
+- **TypeScript** – Type safety for better development experience
+- **Tailwind CSS** – Modern styling with utility classes
+- **Vercel** – Deployment and hosting
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js, explore the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs) – Learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) – Interactive Next.js tutorial.
+- [Next.js GitHub Repository](https://github.com/vercel/next.js) – Contribute and provide feedback.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deployment
 
-## Deploy on Vercel
+The easiest way to deploy this Next.js app is using the Vercel platform:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Visit [Vercel](https://vercel.com/)
+- Connect your GitHub repository
+- Deploy with one click
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For more deployment details, check out [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+
+## Contributing
+
+We welcome contributions! Feel free to open issues or submit pull requests to improve this project.
+
+## License
+
+This project is licensed under the MIT License.
+
